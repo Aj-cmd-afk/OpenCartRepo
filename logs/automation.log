@@ -1,0 +1,48 @@
+2025-09-18 14:31:43 INFO  Utils:112 - [TestNG] Running:
+  /Users/ajay.kumar/eclipse-workspace/OpencartV/OpenCartV1/master.xml
+
+2025-09-18 14:40:07 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest******
+2025-09-18 14:41:15 INFO  TC001_AccountRegistrationTest:27 - **Tapping on registartion**
+2025-09-18 14:41:15 INFO  TC001_AccountRegistrationTest:30 - **Starting the Registration**
+2025-09-18 14:41:19 INFO  TC001_AccountRegistrationTest:40 - **validating message**
+2025-09-18 14:41:19 INFO  TC001_AccountRegistrationTest:43 - **TestFinished**
+2025-09-18 14:41:30 INFO  TC002_LoginTest:15 - ********Starting TC002_Login Test ************
+2025-09-18 14:41:32 INFO  TC002_LoginTest:24 - ******On Login Page
+2025-09-18 14:41:32 INFO  TC002_LoginTest:32 - ******Enterend in My Account Page *****
+2025-09-18 14:41:35 INFO  TC002_LoginTest:42 - *******Finished TC002_Login testCase******
+2025-09-18 14:49:11 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest******
+2025-09-18 14:49:13 INFO  TC001_AccountRegistrationTest:27 - **Tapping on registartion**
+2025-09-18 14:49:13 INFO  TC001_AccountRegistrationTest:30 - **Starting the Registration**
+2025-09-18 14:49:16 INFO  TC001_AccountRegistrationTest:40 - **validating message**
+2025-09-18 14:49:16 INFO  TC001_AccountRegistrationTest:43 - **TestFinished**
+2025-09-18 14:49:23 INFO  TC002_LoginTest:15 - ********Starting TC002_Login Test ************
+2025-09-18 14:49:24 INFO  TC002_LoginTest:24 - ******On Login Page
+2025-09-18 14:49:25 INFO  TC002_LoginTest:32 - ******Enterend in My Account Page *****
+2025-09-18 14:49:25 INFO  TC002_LoginTest:42 - *******Finished TC002_Login testCase******
+2025-09-18 15:11:39 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest******
+2025-09-18 15:12:10 INFO  TC001_AccountRegistrationTest:27 - **Tapping on registartion**
+2025-09-18 15:12:10 INFO  TC001_AccountRegistrationTest:30 - **Starting the Registration**
+2025-09-18 15:12:11 INFO  TC001_AccountRegistrationTest:40 - **validating message**
+2025-09-18 15:12:14 INFO  TC001_AccountRegistrationTest:43 - **TestFinished**
+2025-09-18 15:12:18 INFO  TC002_LoginTest:15 - ********Starting TC002_Login Test ************
+2025-09-18 15:12:18 INFO  TC002_LoginTest:24 - ******On Login Page
+2025-09-18 15:12:18 INFO  TC002_LoginTest:32 - ******Enterend in My Account Page *****
+2025-09-18 15:12:19 INFO  TC002_LoginTest:42 - *******Finished TC002_Login testCase******
+2025-09-18 15:24:30 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest******
+2025-09-18 15:24:31 INFO  TC001_AccountRegistrationTest:27 - **Tapping on registartion**
+2025-09-18 15:24:31 INFO  TC001_AccountRegistrationTest:30 - **Starting the Registration**
+2025-09-18 15:24:32 INFO  TC001_AccountRegistrationTest:40 - **validating message**
+2025-09-18 15:24:32 INFO  TC001_AccountRegistrationTest:43 - **TestFinished**
+2025-09-18 15:24:36 INFO  TC002_LoginTest:15 - ********Starting TC002_Login Test ************
+2025-09-18 15:24:36 INFO  TC002_LoginTest:24 - ******On Login Page
+2025-09-18 15:24:37 INFO  TC002_LoginTest:32 - ******Enterend in My Account Page *****
+2025-09-18 15:24:37 INFO  TC002_LoginTest:42 - *******Finished TC002_Login testCase******
+2025-09-18 15:26:38 INFO  TC001_AccountRegistrationTest:19 - *****Starting TC001_AccountRegistrationTest******
+2025-09-18 15:26:39 INFO  TC001_AccountRegistrationTest:27 - **Tapping on registartion**
+2025-09-18 15:26:39 INFO  TC001_AccountRegistrationTest:30 - **Starting the Registration**
+2025-09-18 15:26:40 INFO  TC001_AccountRegistrationTest:40 - **validating message**
+2025-09-18 15:26:40 INFO  TC001_AccountRegistrationTest:43 - **TestFinished**
+2025-09-18 15:26:43 INFO  TC002_LoginTest:15 - ********Starting TC002_Login Test ************
+2025-09-18 15:26:43 INFO  TC002_LoginTest:24 - ******On Login Page
+2025-09-18 15:26:44 INFO  TC002_LoginTest:32 - ******Enterend in My Account Page *****
+2025-09-18 15:26:44 INFO  TC002_LoginTest:42 - *******Finished TC002_Login testCase******
